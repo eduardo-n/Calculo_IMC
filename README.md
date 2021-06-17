@@ -1,4 +1,4 @@
-# Calcular seu IMC
+# Calculo de IMC
 Esse trabalho foi elaborado em um curso de JS na Udemy.
 
 
